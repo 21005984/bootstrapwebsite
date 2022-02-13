@@ -603,8 +603,16 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+HOME PAGE:
+
 ![Output](.//T1.PNG)
+
+GALLERY PAGE:
+
 ![Output](.//T2.PNG)
+
+ABOUT US:
+
 ![Output](.//T3.PNG)
 
 
