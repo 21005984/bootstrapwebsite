@@ -604,9 +604,12 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+
 ![output](.//T1.PNG)
 
+
 ![output](.//T2.PNG)
+
 
 ![output](.//T3.PNG)
 
