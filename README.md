@@ -604,11 +604,11 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Output](.//T1.PNG)
+![output](.//T1.PNG)
 
-![Output](.//T2.PNG)
+![output](.//T2.PNG)
 
-![Output](.//T3.PNG)
+![output](.//T3.PNG)
 
 
 ## Result:
