@@ -606,5 +606,9 @@ Publish the website in the given URL.
 ![Output](.//T1.PNG)
 ![Output](.//T2.PNG)
 ![Output](.//T3.PNG)
+
+
 ## Result:
+A website as been designed using the bootstrap
+framework
 
