@@ -604,8 +604,14 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+
+## HOME PAGE:
 ![output](.//w1.PNG)
+
+## GALLERY PAGE:
 ![output](.//w2.PNG)
+
+## ABOUT PAGE:
 ![output](.//w3.PNG)
 
 
