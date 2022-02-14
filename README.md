@@ -605,13 +605,13 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](.//T1.PNG)
+![output](.//w1.PNG)
 
 
-![output](.//T2.PNG)
+![output](.//w2.PNG)
 
 
-![output](.//T3.PNG)
+![output](.//w3.PNG)
 
 
 ## Result:
