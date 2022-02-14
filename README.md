@@ -606,13 +606,13 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## HOME PAGE:
-![output](.//w1.PNG)
+![output](.//w1.png)
 
 ## GALLERY PAGE:
-![output](.//w2.PNG)
+![output](.//w2.png)
 
 ## ABOUT PAGE:
-![output](.//w3.PNG)
+![output](.//w3.png)
 
 
 ## Result:
